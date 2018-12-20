@@ -9,3 +9,6 @@ The program takes a list of "terms" (words which you want pronunciation for) and
 
 # Disclaimer
 To the best of my knowledge, this code is not currently in use by me or anyone else. I do not recommend running web scraper (or any other's, for that matter) without reading and understanding the Terms of Service of the target website. You are responsible for your own actions should you decide to use this.
+
+If you are interested in learning more about the ethical use of web scapers and the arguments surrounding, I recommend [this article
+](https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/). 
