@@ -1,5 +1,5 @@
 # mw-scraper
-A simple web scraper built to find pronunciations from Merriam-Webster webpages
+A web scraper built to find pronunciations from Merriam-Webster webpages
 
 # Purpose
 This project was built to introduce myself to Python, explor web scrapers, HTML parsing, and the [BeautifulSoup Python library](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), as well as practice file handling. 
